@@ -3,7 +3,7 @@
 
 ![ZèD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IMZihad21&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide=issues)
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=IMZihad21.IMZihad21) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+![Profile Views](https://komarev.com/ghpvc/?username=IMZihad21) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <h3>Find me in following platforms:</h3>
 
