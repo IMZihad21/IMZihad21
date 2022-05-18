@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **IMZihad21/IMZihad21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hi there 👋
+
 I'm ZèD.
 
-- 🔭 I’m currently working for Web frontend/backend programmer.
-- 🌱 I’m currently learning computer science at college.
+- 🔭 I’m currently working on Web Development.
+- 🌱 I’m currently learning React Native.
+- 👯 I'm eagerly looking forward to our collaboration.
+- 🤔 I’m looking for help to improve my coding style.
 - 💬 Ask me about anything!
 - 😄 Pronouns: [he/him/his](https://pronoun.is/he)
 - 📫 How to reach me: [E-mail](mailto:imzihad@gmail.com) / [Telegram](https://t.me/imzihad21)
