@@ -30,6 +30,7 @@ I'm ZèD.
 
 <div align="center">
 
+  [![WakaTime](https://wakatime.com/badge/user/3c1afc84-ed1f-42bb-a108-3d65064a0c3e.svg)](https://wakatime.com/@3c1afc84-ed1f-42bb-a108-3d65064a0c3e)
   ![Counter](https://visitor-badge.glitch.me/badge?page_id=IMZihad21.visitor-badge)
   ![GitHub User's stars](https://img.shields.io/github/stars/IMZihad21?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
   [![GitHub Sponsors](https://img.shields.io/github/sponsors/IMZihad21?label=GH%20sponsors&style=flat)](https://github.com/sponsors/IMZihad21)
