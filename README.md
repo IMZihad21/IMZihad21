@@ -14,20 +14,19 @@
 </ul>
 
 <div align="center">
-
-<img src="https://wakatime.com/badge/user/3c1afc84-ed1f-42bb-a108-3d65064a0c3e.svg" alt="stats chip" />
-<img src="https://visitor-badge.glitch.me/badge?page_id=IMZihad21.visitor-badge" alt="stats chip" />
-<img src="https://img.shields.io/github/stars/IMZihad21?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" alt="stats chip" />
-<img src="https://img.shields.io/github/sponsors/IMZihad21?label=GH%20sponsors&style=flat" alt="stats chip" />
+<a><img src="https://wakatime.com/badge/user/3c1afc84-ed1f-42bb-a108-3d65064a0c3e.svg" alt="stats chip" /></a>
+<a><img src="https://visitor-badge.glitch.me/badge?page_id=IMZihad21.visitor-badge" alt="stats chip" /></a>
+<a><img src="https://img.shields.io/github/stars/IMZihad21?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars" alt="stats chip" /></a>
+<a><img src="https://img.shields.io/github/sponsors/IMZihad21?label=GH%20sponsors&style=flat" alt="stats chip" /></a>
 
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OS-ArchLinux-darkturquoise?style=flat-square&logo=arch-linux" alt="stats chip" />
-<img src="https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft" alt="stats chip" />
-<img src="https://img.shields.io/badge/OS-Android12-limegreen?style=flat-square&logo=android" alt="stats chip" />
-<img src="https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode" alt="stats chip" />
+<a><img src="https://img.shields.io/badge/OS-ArchLinux-darkturquoise?style=flat-square&logo=arch-linux" alt="stats chip" /></a>
+<a><img src="https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft" alt="stats chip" /></a>
+<a><img src="https://img.shields.io/badge/OS-Android12-limegreen?style=flat-square&logo=android" alt="stats chip" /></a>
+<a><img src="https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode" alt="stats chip" /></a>
 
 </div>
 
@@ -41,8 +40,10 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMZihad21&theme=github" width="100%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMZihad21&theme=github" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IMZihad21&theme=github&utcOffset=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMZihad21&theme=vue" alt="stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMZihad21&theme=vue" alt="stats card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IMZihad21&theme=vue&utcOffset=6" alt="stats card" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IMZihad21&theme=vue" alt="stats card" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IMZihad21&theme=vue" alt="stats card" />
   
 </div>
