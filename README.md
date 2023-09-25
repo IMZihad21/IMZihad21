@@ -4,7 +4,7 @@
 
 <ul>
   <li>🔭 I’m currently working on Web Development.</li>
-  <li>🌱 I’m currently learning Django.</li>
+  <li>🌱 I’m currently learning Asp .Net Core.</li>
   <li>👯 I'm eagerly looking forward to our collaboration.</li>
   <li>🤔 I’m looking for help to improve my coding style.</li>
   <li>💬 Ask me about anything!</li>
