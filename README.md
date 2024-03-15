@@ -1,5 +1,5 @@
-<h2>Hi there 👋</h1>
-<h3>I'm ZèD.</h2>
+<h2>Hi there 👋</h2>
+<h3>I'm ZèD.</h3>
 
 <ul id="informations">
   <li>🔭 Currently focusing on Web Development projects.</li>
