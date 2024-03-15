@@ -1,16 +1,16 @@
-<h1>Hi there 👋</h1>
-<h2>I'm ZèD.</h2>
+<h2>Hi there 👋</h1>
+<h3>I'm ZèD.</h2>
 
-<div id="informations">
-  <p>🔭 I’m currently working on Web Development.</p>
-  <p>🌱 I’m currently learning Asp .Net Core.</p>
-  <p>👯 I'm eagerly looking forward to our collaboration.</p>
-  <p>🤔 I’m looking for help to improve my coding style.</p>
-  <p>💬 Ask me about anything!</p>
-  <p>😄 Pronouns: <a href="https://pronoun.is/he">he/him/his</a></p>
-  <p>📫 How to reach me: <a href="mailto:imzihad@gmail.com">E-mail</a> / <a href="https://t.me/imzihad21">Telegram</a></p>
-  <p>⚡ Fun fact: I occasionally struggle to stay calm, especially when things get heated. You could say I'm quite the firecracker!</p>
-</div>
+<ul id="informations">
+  <li>🔭 Currently focusing on Web Development projects.</li>
+  <li>🌱 Learning and mastering Asp .Net Core for robust web applications.</li>
+  <li>👯 Excited about potential collaborations and synergies.</li>
+  <li>🤔 Seeking guidance to refine and elevate my coding style.</li>
+  <li>💬 Open to discussing any topics related to technology and development.</li>
+  <li>😄 Pronouns: <a href="https://pronoun.is/he">he/him/his</a></li>
+  <li>📫 Reach me via <a href="mailto:imzihad@gmail.com">E-mail</a> or <a href="https://t.me/imzihad21">Telegram</a>.</li>
+  <li>⚡ Fun fact: I thrive under pressure, but occasionally, even the best of us need a breather!</li>
+</ul>
 
 <div id="badges" align="center">
   <a><img src="https://wakatime.com/badge/user/3c1afc84-ed1f-42bb-a108-3d65064a0c3e.svg" alt="stats chip"></a>
