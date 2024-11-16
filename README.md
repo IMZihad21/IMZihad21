@@ -1,4 +1,4 @@
-<h4>Hey there! I’m <strong>ZèD</strong>, a tech enthusiast who loves creating innovative solutions.</h4>
+<h4 id="greeting-text">Hey there! I’m <strong>ZèD</strong>, a tech enthusiast who loves creating innovative solutions.</h4>
 
 <ul id="informations">
   <li>🔭 Currently focused on <strong>system architecture</strong> and impactful web development projects.</li>
@@ -13,8 +13,7 @@
 </ul>
 
 <!-- Badges Section -->
-<div id="badges" align="center">
-
+<div id="badges-section" align="center">
   <!-- Profile & Support -->
   <a href="https://github.com/IMZihad21?tab=stars">
     <img src="https://img.shields.io/github/stars/IMZihad21?affiliations=OWNER%2CCOLLABORATOR&label=GH%20Stars&style=flat-square&logo=github" alt="GitHub Stars">
@@ -22,11 +21,10 @@
   <a href="https://github.com/sponsors/IMZihad21">
     <img src="https://img.shields.io/github/sponsors/IMZihad21?label=GH%20Sponsors&style=flat-square&logo=githubsponsors" alt="GitHub Sponsors">
   </a>
-
 </div>
 
 <!-- Programming Languages -->
-<div align="center">
+<div id="programming-languages" align="center">
   <img src="https://img.shields.io/badge/Code-CSharp-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Code-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
@@ -35,7 +33,7 @@
 </div>
 
 <!-- Backend Frameworks -->
-<div align="center">
+<div id="backend-frameworks" align="center">
   <img src="https://img.shields.io/badge/Backend-ASP.NET_Core-5C2D91?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core">
   <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Backend-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
@@ -43,7 +41,7 @@
 </div>
 
 <!-- Frontend Frameworks -->
-<div align="center">
+<div id="frontend-frameworks" align="center">
   <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Frontend-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Frontend-Material--UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="Material-UI">
@@ -51,7 +49,7 @@
 </div>
 
 <!-- Databases & Storage -->
-<div align="center">
+<div id="databases-storage" align="center">
   <img src="https://img.shields.io/badge/Database-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Database-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -60,21 +58,21 @@
 </div>
 
 <!-- Cloud Technologies -->
-<div align="center">
+<div id="cloud-technologies" align="center">
   <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Platform">
   <img src="https://img.shields.io/badge/Cloud-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
 </div>
 
 <!-- DevOps & Tools -->
-<div align="center">
+<div id="devops-tools" align="center">
   <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Message_Broker-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka">
   <img src="https://img.shields.io/badge/Message_Broker-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
 </div>
 
 <!-- IDEs & OS -->
-<div align="center">
+<div id="ides-os" align="center">
   <img src="https://img.shields.io/badge/IDE-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VSCode">
   <img src="https://img.shields.io/badge/IDE-Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white" alt="Visual Studio">
   <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" alt="Arch Linux">
@@ -83,7 +81,7 @@
 </div>
 
 <!-- Contact Section -->
-<div id="contact" align="center">
+<div id="contact-section" align="center">
   <a href="mailto:imzihad@gmail.com">
     <img src="https://img.shields.io/badge/Email-imzihad@gmail.com-orangered?style=flat-square&logo=gmail" alt="Email">
   </a>
@@ -96,7 +94,7 @@
 </div>
 
 <!-- Stats Section -->
-<div id="stats" align="center">
+<div id="stats-section" align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IMZihad21&theme=vue" alt="Profile Details">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IMZihad21&theme=vue" alt="Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IMZihad21&theme=vue&utcOffset=6" alt="Productive Time">
