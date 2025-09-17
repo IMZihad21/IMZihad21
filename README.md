@@ -1,15 +1,15 @@
-<h4 id="greeting-text">Hey there! I’m <strong>ZèD</strong>, a tech enthusiast who loves creating innovative solutions.</h4>
+<h4 id="greeting-text">Hey there! I’m <strong>ZèD</strong> — a full-stack developer who loves building smart, impactful solutions and exploring the latest in tech.</h4>
 
 <ul id="informations">
-  <li>🔭 Currently focused on <strong>system architecture</strong> and impactful web development projects.</li>
-  <li>🌱 Mastering <strong>ASP.NET Core</strong> to build reliable and scalable applications.</li>
-  <li>👯 Enjoy collaborating with fellow developers to brainstorm and tackle challenges.</li>
-  <li>🤔 Always seeking feedback to refine my coding skills and practices.</li>
-  <li>💬 Let’s chat about tech trends, development hurdles, or exciting project ideas!</li>
-  <li>🌍 Passionate about tech projects that positively impact health and social issues.</li>
-  <li>💡 When not coding, I’m exploring new technologies or diving into tech news.</li>
+  <li>🔭 Currently focused on <strong>clean system architecture</strong> and building high-performance applications.</li>
+  <li>🌱 Deepening expertise in <strong>ASP.NET Core</strong>, while staying sharp with <strong>TypeScript</strong> and modern frameworks.</li>
+  <li>👯 Value collaborating with engineers who enjoy precise, structured problem-solving.</li>
+  <li>🤔 Constantly refining practices with a focus on accuracy, maintainability, and scalability.</li>
+  <li>💬 Open to conversations about architecture patterns, distributed systems, or emerging dev tools.</li>
+  <li>🌍 Interested in projects that blend technology with real-world impact, especially in efficiency and accessibility.</li>
+  <li>💡 Outside of coding, I explore new languages, frameworks, and tech news to stay ahead.</li>
   <li>📫 Reach out via <a href="mailto:imzihad@gmail.com">E-mail</a> or <a href="https://t.me/imzihad21">Telegram</a>.</li>
-  <li>⚡ Fun fact: I thrive under pressure but know the value of taking breaks to recharge!</li>
+  <li>⚡ Fun fact: I thrive in high-pressure problem-solving but know when to pause and recharge for clarity.</li>
 </ul>
 
 <!-- Badges Section -->
